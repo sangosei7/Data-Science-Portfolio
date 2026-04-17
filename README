@@ -1,0 +1,21 @@
+🎵 Spotify Pulse Analysis: Decodificando el Éxito Musical
+Análisis Exploratorio de Datos (EDA) con Python
+
+📌 Descripción del Proyecto
+Este proyecto analiza un conjunto de datos de canciones de Spotify para identificar qué características técnicas (como danceability, energy y tempo) definen a los tracks más populares. El objetivo es encontrar patrones visuales que ayuden a entender la estructura detrás de los hits modernos.
+
+🛠️ Herramientas Utilizadas
+Lenguaje: Python 3
+
+Librerías: * Pandas: Para la manipulación y limpieza de estructuras de datos.
+
+Matplotlib & Seaborn: Para la creación de gráficos estadísticos avanzados y visualización de distribuciones.
+
+🔍 Key Insights (Lo que descubrí)
+Distribución de Popularidad: Identifiqué la concentración de canciones en rangos específicos de energía, permitiendo segmentar el catálogo por "mood".
+
+Correlación de Atributos: Análisis visual de cómo la "bailabilidad" se relaciona con el ritmo de las canciones.
+
+Limpieza de Datos: Implementé técnicas de carga y diagnóstico inicial para asegurar la integridad de los datos antes del análisis visual.
+
+
