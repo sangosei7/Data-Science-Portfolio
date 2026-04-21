@@ -84,3 +84,22 @@ Created synthetic features to improve model performance:
 ---
 **Author:** Santiago Obando  
 *Legal Interpreter & Aspiring Data Scientist*
+
+---
+
+# Cyber Threat Intelligence Analysis (SQL + Python)
+
+## Project Overview
+This project investigates a cybersecurity dataset of reported malicious IP addresses to identify global threat patterns. 
+
+## Key Features
+* **SQL Integration:** Utilized SQLite to manage and query 10,000+ security logs.
+* **Exploratory Data Analysis (EDA):** Identified top attacking nations and temporal patterns (Friday afternoon exploits).
+* **Data Visualization:** Built heatmaps and distribution charts using Seaborn and Matplotlib.
+
+## Tech Stack
+* Python (Pandas, Seaborn, Matplotlib)
+* SQL (SQLite)
+* Google Colab
+
+  ---
