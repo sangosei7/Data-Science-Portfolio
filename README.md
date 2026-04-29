@@ -103,3 +103,54 @@ This project investigates a cybersecurity dataset of reported malicious IP addre
 * Google Colab
 
   ---
+
+  # 📊 Análisis de Siniestralidad Vial - Carreteras Federales
+
+## 📋 Descripción del Proyecto
+Este proyecto presenta un análisis exhaustivo de los accidentes ocurridos en la red vial federal. El objetivo principal fue transformar datos masivos en información accionable para la toma de decisiones en seguridad y logística.
+
+## 🛠️ Herramientas Utilizadas
+- **Power BI**: Visualización de datos y diseño de Dashboard.
+- **DAX (Data Analysis Expressions)**: Creación de medidas para cálculos de mortalidad, heridos y segmentación de gravedad.
+- **Power Query**: Limpieza de datos (ETL) y transformación de formatos de fecha/hora.
+
+## 📈 Requerimientos del Caso de Estudio
+El dashboard responde a las siguientes necesidades de negocio:
+1. **Análisis Temporal**: Eventos por hora, día de la semana y estación del año.
+2. **Impacto Humano**: Cuantificación total de fallecidos y heridos.
+3. **Geolocalización**: Mapa interactivo de los puntos de siniestralidad.
+4. **Análisis de Causas**: Identificación del Top 7 de factores causantes.
+5. **Gravedad**: Filtro y conteo de accidentes con más de 3 víctimas.
+
+## 🚀 Cómo visualizar el proyecto
+1. Descarga el archivo `.pbix` de este repositorio.
+2. Abre el archivo con **Power BI Desktop**.
+3. (Opcional) Los datos fuente se encuentran en la carpeta `/data`.
+
+----
+
+# 📊 Federal Highway Accident Analysis - EmpowerLogistics
+
+## 📋 Project Overview
+This project provides a deep-dive analysis of accident records within the federal highway network. The primary goal was to transform large-scale raw data into actionable insights to support safety interventions and logistics planning.
+
+## 🛠️ Tech Stack
+- **Power BI**: Data visualization and dashboard architecture.
+- **DAX (Data Analysis Expressions)**: Custom measures for mortality, injury rates, and severity segmentation.
+- **Power Query**: Data cleaning (ETL) and date/time transformation logic.
+- **Python**: Used for initial data exploration and consistency checks.
+
+## 📈 Business Requirements Addressed
+The dashboard fulfills the following key performance indicators (KPIs):
+1. **Temporal Dynamics**: Detailed views of events by hour, day of the week, and season.
+2. **Human Impact**: Total quantification of fatalities and injuries.
+3. **Geospatial Mapping**: Interactive geolocation of all registered events.
+4. **Root Cause Analysis**: Identification of the "Top 7" contributing factors.
+5. **Severity Scoring**: Tracking and quantification of high-impact accidents (>3 victims).
+
+## 🚀 How to View
+1. Download the `.pbix` file from this repository.
+2. Open it using **Power BI Desktop**.
+3. (Optional) Source datasets are available in the `/data` folder for further inspection.
+
+ ----
